@@ -1,1 +1,3 @@
 # springcloud-config
+config:
+ info: "master brance , springcloud-config/config-prod.yml version=1"
